@@ -3,6 +3,8 @@ package tema5.relacion53;
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
+		System.out.println("Este ha sido mi cambio realizado");
+
 		double[][][] claseDaw = new double[20][6][10];
 		
 		for(int alumno=0;alumno<claseDaw[20].length;alumno++) {
